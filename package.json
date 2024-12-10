@@ -5,10 +5,14 @@
   "scripts": {
     "test": "exit 0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/213yuka/GitHubPackagesQuickStart.git"
+  },
   "publishConfig": {
-  "@213yuka:registry": "https://npm.pkg.github.com"
+  "registry": "https://npm.pkg.github.com"
 },
-  "author": "",
+  "author": "Yuka Niimi",
   "license": "ISC",
   "description": ""
 }
