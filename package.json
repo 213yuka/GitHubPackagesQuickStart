@@ -1,0 +1,14 @@
+{
+  "name": "@213yuka/githubpackagesquickstart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "publishConfig": {
+  "@213yuka:registry": "https://npm.pkg.github.com"
+},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
